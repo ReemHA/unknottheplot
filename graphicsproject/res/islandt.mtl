@@ -1,0 +1,52 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Material2
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.447059 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Material2.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.666667 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Metal_Aluminum_Anodized.jpg
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Concrete_Aggregate_Smoke.jpg
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Fencing_Diamond_Mesh.png
+
+newmtl Water_Sparkling
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.713725 0.839216
+Ks 0.330000 0.330000 0.330000
+d 0.750000
+map_Kd islandt/Water_Sparkling.jpg
+
+newmtl Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Material.jpg
+
+newmtl Material1
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.709804 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd islandt/Material1.jpg
+

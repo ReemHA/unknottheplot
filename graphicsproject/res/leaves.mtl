@@ -1,0 +1,40 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Material2
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.447059 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd leaves/Material2.jpg
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd leaves/Concrete_Aggregate_Smoke.jpg
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd leaves/Fencing_Diamond_Mesh.png
+
+newmtl _Color_004_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.505882 0.192157
+Ks 0.330000 0.330000 0.330000
+d 0.820000
+map_Kd leaves/_Color_004_1.jpg
+
+newmtl Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd leaves/Material.jpg
+
