@@ -1,0 +1,56 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Material2
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.447059 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Material2.jpg
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Concrete_Aggregate_Smoke.jpg
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Fencing_Diamond_Mesh.png
+
+newmtl Color_002
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Board_Particle
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.537255 0.219608
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Wood_Board_Particle.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Metal_Corrogated_Shiny.jpg
+
+newmtl M_2166tanCAM1
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.396078 0.223529
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/M_2166tanCAM1.png
+
+newmtl Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd board-letters/Material.jpg
+
