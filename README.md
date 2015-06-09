@@ -1,4 +1,4 @@
-# unknottheplot
+# UnknotThePlot
 
 Computer Graphics project using C++, OpenGL & SDL library.
 
